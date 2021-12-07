@@ -1,0 +1,11 @@
+introduccion JS
+
+Variables  es la forma de darle valor a algo para usarlo despues
+
+strings  cualquier bloque de texto entre comillas
+
+funciones argumentos agrupar codigos para usar varias veces ('return') la forma en que los datos escapan de una funcion
+
+declaraciones 'if' sirve para hacer un control de flujo si es verdad pasa algo si no pasa a la siguiente
+
+valores booleanos (true, false ) en la funcion si la declaracion es true pasa si no lo es continua con la declaracion false
